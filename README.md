@@ -123,6 +123,10 @@ After installing any packages with `pip install ...`, run:
 pip freeze > requirements.txt
 ```
 
+# Post Fetcher and Logger
+
+This tool fetches posts from the JSONPlaceholder API and logs them to both a text log file and a JSON file.
+
 ---
 
 ## Best Practices
